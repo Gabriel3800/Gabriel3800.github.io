@@ -1,2 +1,6 @@
-# \| Texto que você deseja digitar |
+```markdown
+
+Digite aqui...
+
+```
 
